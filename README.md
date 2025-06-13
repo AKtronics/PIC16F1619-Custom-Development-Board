@@ -113,3 +113,6 @@ _PCB_
 
 ---
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Build Status](https://img.shields.io/badge/boards-ready-green.svg)
+
