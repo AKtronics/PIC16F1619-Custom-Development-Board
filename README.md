@@ -40,9 +40,14 @@ This is a custom-built development board designed for the **PIC16F1619** 8-bit m
 - Supports clean routing with minimal vias  
 - **2-layer PCB**, 5×5 cm, single-sided component layout  
 
-_image_
+_schematics_
 
 ![image](https://github.com/user-attachments/assets/eaebf8b0-f1c7-4c44-a0ba-eeea0f0589d4)
+
+_PCB_
+
+
+![image](https://github.com/user-attachments/assets/dab0b91f-e6cc-4865-b349-4f23e1768441)
 
 ---
 
