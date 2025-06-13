@@ -58,10 +58,10 @@ _PCB_
 | VDD              | 1       | VCC         |
 | GND              | 20      | GND         |
 | MCLR (Reset)     | 4       | RST         |
-| ICSPDAT          | 13      | PGD         |
-| ICSPCLK          | 12      | PGC         |
-| UART TX          | 17 (RC6)| TX          |
-| UART RX          | 18 (RC7)| RX          |
+| ICSPDAT          | 19      | PGD         |
+| ICSPCLK          | 18      | PGC         |
+| UART TX          | 6  (RC4)| TX          |
+| UART RX          | 5  (RC5)| RX          |
 
 ---
 
@@ -79,7 +79,8 @@ _PCB_
 1. Connect PICkit to ICSP header (PGC/PGD/VPP/VDD/GND).  
 2. Enable LVP in the config bits.  
 3. Flash using MPLAB X.  
-4. Connect CH340 (TX → RX, RX → TX, GND → GND) for UART monitoring.  
+4. Connect CH340 (TX → RX, RX → TX, GND → GND) for UART monitoring.
+5. Remap UART TX/RX to RC4 and RC5 using PPS
 
 ---
 
