@@ -41,6 +41,9 @@ This is a custom-built development board designed for the **PIC16F1619** 8-bit m
 - **2-layer PCB**, 5×5 cm, single-sided component layout  
 
 _image_
+
+![image](https://github.com/user-attachments/assets/eaebf8b0-f1c7-4c44-a0ba-eeea0f0589d4)
+
 ---
 
 ## Pin Mapping
@@ -91,16 +94,16 @@ _image_
 - Learned how to design PCBs with proper decoupling, voltage regulation, ESD protection, signal noise preduction, reverse polarity protection, ICSP routing  
 - Learned integrating usb interface
 - Understood practical PCB design constraints, like trace width, via size, component clearance, and EMI mitigation
-- Improvised and gained experience in thermal management, data lines coupling, ground and power planes
+- Improvised and gained experience in thermal management, data lines coupling, ground and power plane pour
 ---
 
 ## Future Improvements
 
-- Add voltage regulator (AMS1117/LM1117) onboard  
 - Integrate USB‑C for power  
 - Support ICD debugging via header  
 - SMT version (v1.1 planned)  
-- Copper pour + ground plane for better EMI  
+- Copper pour + ground plane for better EMI
+- Add ICD (In-Circuit Debug) Header
 
 ---
 
