@@ -86,11 +86,12 @@ _image_
 
 ## Learning Outcomes
 
-- Mastered reading Microchip datasheets  
+- Improved upon reading Microchip datasheets  
 - Understood pin configuration, memory layout, config bits  
-- Learned how to design PCBs with proper decoupling, ICSP routing  
-- Gained experience with bare‑metal firmware  
-
+- Learned how to design PCBs with proper decoupling, voltage regulation, ESD protection, signal noise preduction, reverse polarity protection, ICSP routing  
+- Learned integrating usb interface
+- Understood practical PCB design constraints, like trace width, via size, component clearance, and EMI mitigation
+- Improvised and gained experience in thermal management, data lines coupling, ground and power planes
 ---
 
 ## Future Improvements
