@@ -1,4 +1,4 @@
-"#","Reference","Qty","Value","Footprint","DNP"
+"#","Reference","Qty","Value","Footprint"
 "1","C1, C2, C5","3","100uF","Capacitor_SMD:CP_Elec_3x5.3",""
 "2","C3, C4","2","22pF","Capacitor_SMD:C_0805_2012Metric",""
 "3","D1","1","LED","LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder",""
