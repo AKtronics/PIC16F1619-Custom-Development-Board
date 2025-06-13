@@ -17,7 +17,8 @@ This is a custom-built development board designed for the **PIC16F1619** 8-bit m
 - [Getting Started](#getting-started)  
 - [Tools Used](#tools-used)  
 - [Learning Outcomes](#learning-outcomes)  
-- [Future Improvements](#future-improvements)  
+- [Future Improvements](#future-improvements)
+- [Skills](#skills) 
 
 ---
 
@@ -114,8 +115,22 @@ _PCB_
 ---
 
 ## Skills
-• Microcontrollers: PIC16F1619
-• Tools: MPLAB X IDE, XC8, VSCode, KiCAD, LTSpice
-• Concepts: UART, ICSP, LVP, GPIOs
-• Soft Skills: Datasheet reading, Debugging, Schematic design
+
+![Embedded C](https://img.shields.io/badge/Embedded%20C-Firmware-informational)
+![PIC](https://img.shields.io/badge/PIC-MCU-yellow?logo=microchip)
+![UART](https://img.shields.io/badge/UART-Serial--Comm-yellowgreen)
+![ICSP](https://img.shields.io/badge/ICSP-InCircuitProgramming-lightblue)
+![LVP](https://img.shields.io/badge/LVP-LowVoltageProgramming-green)
+![GPIO](https://img.shields.io/badge/GPIO-GeneralIO-success)
+![Datasheet Reading](https://img.shields.io/badge/Datasheet%20Reading-✓-important)
+![Debugging](https://img.shields.io/badge/Debugging-Handson-ff8c00)
+![Schematic Design](https://img.shields.io/badge/Schematic--Design-EasyEDA/KiCAD-brightgreen)
+![PCB Design](https://img.shields.io/badge/PCB--Design-2Layer-green)
+![MPLAB X](https://img.shields.io/badge/MPLAB--X-IDE-red?logo=microchip)
+![XC8 Compiler](https://img.shields.io/badge/XC8-Compiler-blueviolet)
+![LTSpice](https://img.shields.io/badge/LTSpice-Simulation-orange)
+![Multisim](https://img.shields.io/badge/NI%20Multisim-CircuitSim-yellowgreen)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?logo=visualstudiocode)
+![KiCAD](https://img.shields.io/badge/KiCAD-PCBTool-brightgreen?logo=kicad)
+
 
