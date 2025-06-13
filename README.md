@@ -1,6 +1,6 @@
 # PIC16F1619-Custom-Development-Board
 
-A professional-quality development board built from scratch using the PIC16F1619 microcontroller. Designed and simulated as my 2nd pcb project. This is a small compact version exclusively for PIC16F16!9 microcontroller usable for circuit development, testing educational purpose.
+A professional-quality development board built from scratch using PIC16F1619 microcontroller. Designed and simulated as my 2nd pcb project. This is a small compact version exclusively for PIC16F1619 microcontroller usable for circuit development, testing and educational purpose.
 ---
 
 ## Project Overview
