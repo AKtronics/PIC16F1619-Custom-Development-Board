@@ -113,6 +113,9 @@ _PCB_
 
 ---
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Build Status](https://img.shields.io/badge/boards-ready-green.svg)
+## Skills
+• Microcontrollers: PIC16F1619
+• Tools: MPLAB X IDE, XC8, VSCode, KiCAD, LTSpice
+• Concepts: UART, ICSP, LVP, GPIOs
+• Soft Skills: Datasheet reading, Debugging, Schematic design
 
